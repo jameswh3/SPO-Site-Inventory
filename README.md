@@ -5,7 +5,7 @@ This script is provided as a way to inventory SharePoint Online Sites and retrie
 
 | Script | Description | Permissions Required | Dependencies | 
 | --- | --- | --- | --- |
-| Get-OneDriveSiteInventory.ps1 | Iterates through OneDrive Sites to Collect Details | see below | PnP PowerShell
+| Get-SPOSiteInventory.ps1 | Iterates through OneDrive Sites to Collect Details | see below | PnP PowerShell
 
 
 # PowerShell Requirements
